@@ -31,6 +31,6 @@ export class ChatGateway {
     ): 
   void {
     client.join(room)
-    console.log(room + "이 생성되었습니다.")
+    // console.log(room + "이 생성되었습니다.")
   }
 }
